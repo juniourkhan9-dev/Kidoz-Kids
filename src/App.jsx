@@ -63,7 +63,7 @@ export default function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Kidoz-Kids'>
       <div className="app-root">
         <Header cartCount={totalCartCount} onOpenCart={() => setIsCartOpen(true)} />
 
