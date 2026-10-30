@@ -61,7 +61,7 @@ export default function Home({ onAddToCart }) {
             {/* Box 1: Winter */}
             <Link to="/season/winter" className="season-card-box winter-box" style={{ textDecoration: 'none' }}>
               <div className="season-card-img-wrap">
-                <img src="/Kidoz-Kids/images/season-winter.jpg" alt="Winter Collection" />
+                <img src="/images/season-winter.jpg" alt="Winter Collection" />
               </div>
               <div className="season-card-footer">
                 <span className="season-card-title"><i className="fas fa-snowflake"></i> Winter</span>
@@ -72,7 +72,7 @@ export default function Home({ onAddToCart }) {
             {/* Box 2: Summer */}
             <Link to="/season/summer" className="season-card-box summer-box" style={{ textDecoration: 'none' }}>
               <div className="season-card-img-wrap">
-                <img src="/Kidoz-Kids/images/season-summer.jpg" alt="Summer Collection" />
+                <img src="/images/season-summer.jpg" alt="Summer Collection" />
               </div>
               <div className="season-card-footer">
                 <span className="season-card-title"><i className="fas fa-sun"></i> Summer</span>
@@ -83,7 +83,7 @@ export default function Home({ onAddToCart }) {
             {/* Box 3: Autumn */}
             <Link to="/season/autumn" className="season-card-box autumn-box" style={{ textDecoration: 'none' }}>
               <div className="season-card-img-wrap">
-                <img src="/Kidoz-Kids/images/season-autumn.jpg" alt="Autumn Collection" />
+                <img src="/images/season-autumn.jpg" alt="Autumn Collection" />
               </div>
               <div className="season-card-footer">
                 <span className="season-card-title"><i className="fas fa-leaf"></i> Autumn</span>
@@ -94,7 +94,7 @@ export default function Home({ onAddToCart }) {
             {/* Box 4: Spring */}
             <Link to="/season/spring" className="season-card-box spring-box" style={{ textDecoration: 'none' }}>
               <div className="season-card-img-wrap">
-                <img src="/Kidoz-Kids/images/season-spring.jpg" alt="Spring Collection" />
+                <img src="/images/season-spring.jpg" alt="Spring Collection" />
               </div>
               <div className="season-card-footer">
                 <span className="season-card-title"><i className="fas fa-spa"></i> Spring</span>

@@ -3,5 +3,5 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Kidoz-Kids/', plugins: [react()],
+  plugins: [react()],
 })
