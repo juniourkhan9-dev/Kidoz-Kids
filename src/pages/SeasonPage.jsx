@@ -7,28 +7,28 @@ const SEASON_META = {
   winter: {
     title: 'Winter Collection ❄️',
     subtitle: 'Cozy layers, snug warm fleece jackets, woolen pullovers, and cute bear hoodies crafted for active little adventurers.',
-    image: '/images/season-winter.jpg',
+    image: '/Kidoz-Kids/images/season-winter.jpg',
     themeBg: 'linear-gradient(135deg, #e0f2fe 0%, #f0f9ff 100%)',
     badgeText: 'Winter Warmers'
   },
   summer: {
     title: 'Summer Collection ☀️',
     subtitle: 'Cool styles for sunny days! 100% pure organic cotton, linen co-ords, camp shirts & lightweight sundresses.',
-    image: '/images/season-summer.jpg',
+    image: '/Kidoz-Kids/images/season-summer.jpg',
     themeBg: 'linear-gradient(135deg, #fef3c7 0%, #fffbeb 100%)',
     badgeText: 'Summer Cool Breeze'
   },
   autumn: {
     title: 'Autumn Collection 🍂',
     subtitle: 'Warm looks for cooler days! Soft-ribbed corduroy overalls, waffle-knit sweaters & thermal layers.',
-    image: '/images/season-autumn.jpg',
+    image: '/Kidoz-Kids/images/season-autumn.jpg',
     themeBg: 'linear-gradient(135deg, #ffedd5 0%, #fff7ed 100%)',
     badgeText: 'Autumn Harvest Wear'
   },
   spring: {
     title: 'Spring Collection 🌸',
     subtitle: 'Fresh styles for brighter days! Delicate pastel floral frocks, soft cardigans & daisy-embroidered dresses.',
-    image: '/images/season-spring.jpg',
+    image: '/Kidoz-Kids/images/season-spring.jpg',
     themeBg: 'linear-gradient(135deg, #dcfce7 0%, #f0fdf4 100%)',
     badgeText: 'Spring Bloom Edition'
   }
